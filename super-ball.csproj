@@ -79,6 +79,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\scripts\cameracontrller.cs" />
+    <Compile Include="Assets\scripts\finishlinecontroller.cs" />
     <Compile Include="Assets\scripts\playercontroller.cs" />
     <Compile Include="Assets\scripts\rotator.cs" />
   </ItemGroup>
